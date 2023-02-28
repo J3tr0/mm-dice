@@ -1,0 +1,35 @@
+{
+	"id": "mm-dice",
+	"name": "mm-dice",
+	"title": "Memento Mori Dice",
+	"description": "Dice so Nice extension for FoundryVTT. Add 2 custom dice for Memento Mori",
+	"version": "0.1",
+	"compatibility": {
+		"minimum": 10,
+		"verified": "10.291"
+	},
+	"relationships": {
+		"requires": [
+			{
+				"id": "dice-so-nice",
+				"type": "module",
+				"manifest": "https://gitlab.com/riccisi/foundryvtt-dice-so-nice/-/raw/master/module/module.json"
+			}
+		]
+	},
+	"authors": [
+		{
+			"name": "Jetro",
+			"discord": "Jetro#2146",
+			"flags": {}
+		}
+	],
+	"esmodules": ["mm-dice.js"],
+	"scripts": [],
+	"styles": [],
+	"packs": [],
+
+	"url": "https://github.com/J3tr0/wfrp4e-it-translation",
+	"manifest": "https://github.com/J3tr0/wfrp4e-it-translation/releases/latest/download/module.json",
+	"download": "https://github.com/J3tr0/wfrp4e-it-translation/releases/latest/download/module.zip"
+}
