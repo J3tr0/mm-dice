@@ -3,7 +3,7 @@
 	"name": "mm-dice",
 	"title": "Memento Mori Dice",
 	"description": "Dice so Nice extension for FoundryVTT. Add 2 custom dice for Memento Mori",
-	"version": "0.1",
+	"version": "1.0",
 	"compatibility": {
 		"minimum": 10,
 		"verified": "10.291"
